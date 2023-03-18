@@ -1,0 +1,41 @@
+# Archivos y directorios generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Carpeta virtualenv
+venv/
+
+# Archivos de registro y caché
+*.log
+__pycache__/
+
+
+# Archivos de logs
+*.log
+
+# Archivos de compilación
+*.pyc
+*.class
+*.o
+
+# Archivos temporales
+*.tmp
+*.bak
+
+# Archivos de sistema
+Thumbs.db
+.DS_Store
+
+# Carpeta virtual
+venv/
+
+# Carpeta de dependencias
+node_modules/
+
+# Archivos de configuración local
+.env
+.env.local
+
+# Archivos de configuración del editor
+.vscode/
+.idea/
